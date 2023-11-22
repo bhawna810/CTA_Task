@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "name": "Craig Morales",
+      "email": "testuser5@test.com",
+      "designation": "Tech Lead",
+      "status": "valid",
+      "task": "Ressigned",
+      "id": 2
+    },
+    {
+      "name": "Caitlin",
+      "email": "testuser7@test.com",
+      "designation": "Product Manager",
+      "status": "valid",
+      "task": "Ressigned",
+      "id": 3
+    },
+    {
+      "name": "Joseph Drake",
+      "email": "testuser8@test.com",
+      "designation": "Software Engineer",
+      "status": "valid",
+      "task": "Ressigned",
+      "id": 4
+    },
+    {
+      "name": "Surbhi Dighe",
+      "email": "testuser9@test.com",
+      "designation": "Software Engineer",
+      "status": "valid",
+      "task": "Ressigned",
+      "id": 5
+    },
+    {
+      "name": "Bhdhary",
+      "email": "bh@gmail.com",
+      "designation": "Software Engineer",
+      "status": "valid",
+      "task": "Removed",
+      "id": 6
+    },
+    {
+      "name": "bhaw",
+      "email": "bh003@gmail.com",
+      "designation": "software Engineer",
+      "status": "valid",
+      "task": "APPROVED",
+      "id": 7
+    },
+    {
+      "name": "bhbbjb",
+      "email": "bha3@gmail.com",
+      "designation": "software Engineer",
+      "status": "valid",
+      "task": "Removed",
+      "id": 8
+    }
+  ]
+}
